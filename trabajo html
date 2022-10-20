@@ -1,0 +1,14 @@
+<html>
+    <head><title>sumar numeros</title></head>
+    <body>
+<script
+var num1_char = prompt("Dime un numero") ;
+var num1 = parsInt(num1 _char);
+var num2_char = prompt ("Dime otro numero:");
+var num2 = parseInt(num2_char);
+var total = num1 + num2;
+alert("El total es : " + total);
+
+    </script>
+    </body>
+    </html>
